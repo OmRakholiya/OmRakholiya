@@ -1,5 +1,4 @@
-# 💫 About Me:
-## 👋 Hi, I'm Om<br><br>A passionate Computer Science student focused on building real-world applications and solving complex problems through code.<br><br>- 🧠 Strong foundation in Data Structures & Algorithms  <br>- 🚀 Developing projects using backend and modern cloud technologies  <br>- 📈 Continuously enhancing problem-solving and development skills  <br>- 🎯 Interested in Software Development, FinTech, and scalable systems  <br>
+👋 Hi, I'm Om<br><br>A passionate Computer Science student focused on building real-world applications and solving complex problems through code.<br><br>- 🧠 Strong foundation in Data Structures & Algorithms  <br>- 🚀 Developing projects using backend and modern cloud technologies  <br>- 📈 Continuously enhancing problem-solving and development skills  <br>- 🎯 Interested in Software Development, FinTech, and scalable systems  <br>
 
 
 ## 🌐 Socials:
